@@ -1,0 +1,7 @@
+{
+  "name": "LoveMyPet",
+  "description": "A social community tool for pet lovers to connect, report missing pets, and celebrate reunions in a safe and supportive environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
